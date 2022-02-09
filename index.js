@@ -74,15 +74,7 @@ const main = async () => {
 };
 
 console.log(chalk`{bold.green
-  ▄▄▄▄▄            ▄▄▌  .▄▄ · ▪   ▄▄ • 
-  •██  ▪     ▪     ██•  ▐█ ▀. ██ ▐█ ▀ ▪
-   ▐█.▪ ▄█▀▄  ▄█▀▄ ██▪  ▄▀▀▀█▄▐█·▄█ ▀█▄
-   ▐█▌·▐█▌.▐▌▐█▌.▐▌▐█▌▐▌▐█▄▪▐█▐█▌▐█▄▪▐█
-   ▀▀▀  ▀█▄▀▪ ▀█▄▀▪.▀▀▀  ▀▀▀▀ ▀▀▀·▀▀▀▀ 
-
-  Ξ TITLE  : toolsig v4.0
-  Ξ EMAIL  : officialputuid@hack.id
-  Ξ UPDATE : Wednesday, August 4, 2021
+  BOT V1 By CRAZY MODz
 
   116 111 111 108 115 105 103  118 51 
   }`);
